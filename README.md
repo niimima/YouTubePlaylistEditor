@@ -1,0 +1,2 @@
+# YouTubePlaylistEditor
+YouTubeの再生リストを便利に編集できるアプリです。
